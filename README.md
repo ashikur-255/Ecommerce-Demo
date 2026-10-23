@@ -3,8 +3,8 @@ FashionBD is a modern, responsive e-commerce front-end template designed for onl
 
 # FashionBD - E-commerce Website Demo
 
-(<img width="2880" height="5060" alt="Ecimmerce_website_demo" src="https://github.com/user-attachments/assets/6229eb5b-c30e-4637-b75d-2f3a26e99a57" />
-)
+<img width="2880" height="5060" alt="Ecimmerce_website_demo" src="https://github.com/user-attachments/assets/6229eb5b-c30e-4637-b75d-2f3a26e99a57" />
+
 
 ## Overview
 FashionBD is a modern e-commerce front-end interface designed for online fashion retailers[cite: 2]. It features a clean, user-friendly layout that highlights premium fashion items at affordable prices, making it easy for customers to browse and shop[cite: 2].
@@ -26,5 +26,4 @@ FashionBD is a modern e-commerce front-end interface designed for online fashion
 To view this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```bash
-   git clone [https://github.com/your-username/fashionbd-ecommerce.git](https://github.com/your-username/fashionbd-ecommerce.git)
+   https://github.com/ashikur-255/Ecommerce-Demo
